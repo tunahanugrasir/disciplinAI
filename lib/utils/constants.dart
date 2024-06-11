@@ -1,0 +1,6 @@
+const String APP_TITLE = "DISCIPLINE";
+const String USER_INFORMATION_TITLE = "BEN KİMİM?";
+const String USER_INFORMATION_NAME_LABEL = "ADIM";
+const String USER_INFORMATION_SURNAME_LABEL = "SOYADIM";
+const String USER_INFORMATION_BUTTON_TITLE = "DEVAM ET";
+const String TEXT_FORM_FIELD_ERROR = "Bu alan boş bırakılamaz.";
